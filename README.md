@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍🎓 I'm currently studying at O'Clock school for a Bachelor application developer designer.
+
+💻 I have already made sites in bootstrap / php / symfony.
+
+I have my resume online
+
+<h1>TECHNOLOGIES</h1>
+
+HTML / CSS / JS / BOOTSTRAP / PHP / SYMFONY
+
+
+
